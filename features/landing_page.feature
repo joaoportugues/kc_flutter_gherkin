@@ -1,6 +1,6 @@
 Feature: Startup
 
-  Scenario: should increment counter
+  Scenario: should click Settings
     Given I see "Kid-Coins"
     When I tap the "Settings Menu" button
 
