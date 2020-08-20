@@ -1,0 +1,4 @@
+2020-08-19 13:56:59.471536 >>> {command: get_health}
+2020-08-19 13:57:00.354998 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:57:00.361115 >>> {command: waitForCondition, timeout: 5000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 13:57:00.386367 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}

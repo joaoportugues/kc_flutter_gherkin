@@ -1,0 +1,173 @@
+2020-08-19 13:55:20.984070 >>> {command: get_health}
+2020-08-19 13:55:21.873022 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:21.887003 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 13:55:21.929857 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:21.933751 >>> {command: get_text, timeout: 30000, finderType: ByValueKey, keyValueString: counter, keyValueType: String}
+2020-08-19 13:55:22.045215 <<< {isError: false, response: {text: 0}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:22.056735 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 13:55:22.407982 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:22.413962 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 13:55:22.663553 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:22.669316 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 13:55:22.747555 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:22.749682 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 13:55:22.993151 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:22.998811 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 13:55:23.076663 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:23.079094 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 13:55:23.326342 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:23.332570 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 13:55:23.403126 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:23.405758 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 13:55:23.635562 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:23.641526 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 13:55:23.686366 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:23.689106 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 13:55:23.933896 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:23.940271 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 13:55:24.004769 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:24.007346 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 13:55:24.251954 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:24.258190 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 13:55:24.317654 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:24.319866 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 13:55:24.562158 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:24.566851 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 13:55:24.610654 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:24.613289 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 13:55:24.853752 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:24.856307 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 13:55:24.904470 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:24.906607 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 13:55:25.143586 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:25.149939 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 13:55:25.212315 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:25.214780 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 13:55:25.445643 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:25.453272 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 13:55:25.465387 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:25.466114 >>> {command: get_text, timeout: 30000, finderType: ByValueKey, keyValueString: counter, keyValueType: String}
+2020-08-19 13:55:25.483160 <<< {isError: false, response: {text: 10}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:55:25.484433 >>> {command: waitForCondition, timeout: 5000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 13:55:25.502731 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:17:31.775673 >>> {command: get_health}
+2020-08-19 17:17:32.571036 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:17:32.577681 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 17:17:32.609970 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:17:32.610824 >>> {command: get_text, timeout: 30000, finderType: ByValueKey, keyValueString: counter, keyValueType: String}
+2020-08-19 17:17:32.676720 <<< {isError: false, response: {text: 0}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:17:32.680938 >>> {command: waitForCondition, timeout: 5000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 17:17:32.693911 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:29.803972 >>> {command: get_health}
+2020-08-19 17:18:30.671121 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:30.684733 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 17:18:30.732559 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:30.736110 >>> {command: get_text, timeout: 30000, finderType: ByValueKey, keyValueString: counter, keyValueType: String}
+2020-08-19 17:18:30.805233 <<< {isError: false, response: {text: 0}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:30.814883 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 17:18:31.134235 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:31.140527 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 17:18:31.395056 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:31.401360 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 17:18:31.457738 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:31.459806 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 17:18:31.700276 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:31.706609 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 17:18:31.776168 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:31.778855 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 17:18:32.015431 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:32.021560 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 17:18:32.076967 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:32.079380 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 17:18:32.325005 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:32.325573 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 17:18:32.372616 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:32.375076 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 17:18:32.607851 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:32.614186 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 17:18:32.676610 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:32.679076 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 17:18:32.920059 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:32.925943 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 17:18:32.953394 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:32.954098 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 17:18:33.196275 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:33.202529 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 17:18:33.270923 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:33.273504 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 17:18:33.525604 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:33.531902 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 17:18:33.590100 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:33.592316 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 17:18:33.839128 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:33.845292 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 17:18:33.903186 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:33.905879 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 17:18:34.145798 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:34.152136 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: increment, keyValueType: String}
+2020-08-19 17:18:34.227187 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:18:34.230031 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 17:28:49.301872 >>> {command: get_health}
+2020-08-19 17:28:49.428971 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:28:49.439857 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 17:28:49.611817 <<< {isError: true, response: Uncaught extension error while executing waitForCondition: 'package:flutter_driver/src/extension/extension.dart': Failed assertion: line 214 pos 14: 'WidgetsBinding.instance.isRootWidgetAttached || !command.requiresRootWidgetAttached': No root widget is attached; have you remembered to call runApp()?
+#0      _AssertionError._doThrowNew (dart:core-patch/errors_patch.dart:46:39)
+#1      _AssertionError._throwNew (dart:core-patch/errors_patch.dart:36:5)
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:214:14)
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:549:32)
+<asynchronous suspension>
+#4      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart)
+#5      _runExtension (dart:developer-patch/developer.dart:84:23)
+, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:28:49.614903 >>> {command: get_text, timeout: 30000, finderType: ByValueKey, keyValueString: counter, keyValueType: String}
+2020-08-19 17:28:49.650006 <<< {isError: true, response: Uncaught extension error while executing get_text: 'package:flutter_driver/src/extension/extension.dart': Failed assertion: line 214 pos 14: 'WidgetsBinding.instance.isRootWidgetAttached || !command.requiresRootWidgetAttached': No root widget is attached; have you remembered to call runApp()?
+#0      _AssertionError._doThrowNew (dart:core-patch/errors_patch.dart:46:39)
+#1      _AssertionError._throwNew (dart:core-patch/errors_patch.dart:36:5)
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:214:14)
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:549:32)
+<asynchronous suspension>
+#4      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart)
+#5      _runExtension (dart:developer-patch/developer.dart:84:23)
+, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:28:49.655159 >>> {command: waitForCondition, timeout: 5000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 17:28:49.680719 <<< {isError: true, response: Uncaught extension error while executing waitForCondition: 'package:flutter_driver/src/extension/extension.dart': Failed assertion: line 214 pos 14: 'WidgetsBinding.instance.isRootWidgetAttached || !command.requiresRootWidgetAttached': No root widget is attached; have you remembered to call runApp()?
+#0      _AssertionError._doThrowNew (dart:core-patch/errors_patch.dart:46:39)
+#1      _AssertionError._throwNew (dart:core-patch/errors_patch.dart:36:5)
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:214:14)
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:549:32)
+<asynchronous suspension>
+#4      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart)
+#5      _runExtension (dart:developer-patch/developer.dart:84:23)
+, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:32:30.578943 >>> {command: get_health}
+2020-08-19 17:32:30.727487 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:32:30.734310 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 17:32:30.897009 <<< {isError: true, response: Uncaught extension error while executing waitForCondition: 'package:flutter_driver/src/extension/extension.dart': Failed assertion: line 214 pos 14: 'WidgetsBinding.instance.isRootWidgetAttached || !command.requiresRootWidgetAttached': No root widget is attached; have you remembered to call runApp()?
+#0      _AssertionError._doThrowNew (dart:core-patch/errors_patch.dart:46:39)
+#1      _AssertionError._throwNew (dart:core-patch/errors_patch.dart:36:5)
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:214:14)
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:549:32)
+<asynchronous suspension>
+#4      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart)
+#5      _runExtension (dart:developer-patch/developer.dart:84:23)
+, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:32:30.903003 >>> {command: get_text, timeout: 30000, finderType: ByValueKey, keyValueString: counter, keyValueType: String}
+2020-08-19 17:32:30.936848 <<< {isError: true, response: Uncaught extension error while executing get_text: 'package:flutter_driver/src/extension/extension.dart': Failed assertion: line 214 pos 14: 'WidgetsBinding.instance.isRootWidgetAttached || !command.requiresRootWidgetAttached': No root widget is attached; have you remembered to call runApp()?
+#0      _AssertionError._doThrowNew (dart:core-patch/errors_patch.dart:46:39)
+#1      _AssertionError._throwNew (dart:core-patch/errors_patch.dart:36:5)
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:214:14)
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:549:32)
+<asynchronous suspension>
+#4      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart)
+#5      _runExtension (dart:developer-patch/developer.dart:84:23)
+, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 17:32:30.945141 >>> {command: waitForCondition, timeout: 5000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 17:32:30.964849 <<< {isError: true, response: Uncaught extension error while executing waitForCondition: 'package:flutter_driver/src/extension/extension.dart': Failed assertion: line 214 pos 14: 'WidgetsBinding.instance.isRootWidgetAttached || !command.requiresRootWidgetAttached': No root widget is attached; have you remembered to call runApp()?
+#0      _AssertionError._doThrowNew (dart:core-patch/errors_patch.dart:46:39)
+#1      _AssertionError._throwNew (dart:core-patch/errors_patch.dart:36:5)
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:214:14)
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:549:32)
+<asynchronous suspension>
+#4      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart)
+#5      _runExtension (dart:developer-patch/developer.dart:84:23)
+, type: _extensionType, method: ext.flutter.driver}

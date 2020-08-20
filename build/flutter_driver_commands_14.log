@@ -1,0 +1,18 @@
+2020-08-19 13:56:53.329487 >>> {command: get_health}
+2020-08-19 13:56:54.135310 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:56:54.142821 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 13:56:54.173131 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:56:54.174011 >>> {command: get_text, timeout: 30000, finderType: ByValueKey, keyValueString: longPressText, keyValueType: String}
+2020-08-19 13:56:54.240308 <<< {isError: false, response: {text: Text that has not been long pressed}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:56:54.245609 >>> {command: scrollIntoView, finderType: ByValueKey, keyValueString: longPressText, keyValueType: String, alignment: 0.0}
+2020-08-19 13:56:54.279425 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:56:54.281558 >>> {command: scroll, timeout: 30000, finderType: ByValueKey, keyValueString: longPressText, keyValueType: String, dx: 0.0, dy: 0.0, duration: 500000, frequency: 60}
+2020-08-19 13:56:55.362473 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:56:55.368812 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 13:56:55.380467 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:56:55.383125 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 13:56:55.393863 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:56:55.394702 >>> {command: get_text, timeout: 30000, finderType: ByValueKey, keyValueString: longPressText, keyValueType: String}
+2020-08-19 13:56:55.416514 <<< {isError: false, response: {text: Text has been long pressed!}, type: _extensionType, method: ext.flutter.driver}
+2020-08-19 13:56:55.417529 >>> {command: waitForCondition, timeout: 5000, conditionName: NoTransientCallbacksCondition}
+2020-08-19 13:56:55.435201 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
